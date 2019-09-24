@@ -1,3 +1,5 @@
-# This is week4 review page
-## we are learning coding...
-Coding is so difficult... 
+#This is a review project in week 4
+## We are learning such fun stuff!
+
+all about how to do worklow with git and github... branches and commits and pushes oh my!
+
